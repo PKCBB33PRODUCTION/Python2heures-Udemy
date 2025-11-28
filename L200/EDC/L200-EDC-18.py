@@ -1,4 +1,4 @@
-# Auteur : Noah MAILLET
+# Auteur : Noah M.
 # Générer une Liste de Nombres avec range
 # Rechercher une Valeur dans un Dictionnaire
 # Ensemble des clé dans le dictionnaire
