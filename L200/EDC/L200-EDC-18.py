@@ -5,7 +5,8 @@
 produits = {"pommes": 2, "bananes": 3, "cerises": 5}
 
 """
-# Voici ma version de code que j'ai choisie de mettre en place :
+La version ci dessous implique un contact avec l'utilisateur pour vérifier le prix.
+Elle ne prends pas en compte l'in
 # Demande de choix à l'utilisateur.
 choix = input("Saisissez une clé: ")
 
@@ -19,8 +20,11 @@ else:
 """
 
 # Correction.
+# Vérif présences bananes
 if "bananes" in produits:
+    # Bananes => Ok.
     result = produits["bananes"]
 else:
+    # Bannanes => Ko.
     result = "Produit non trouvé."
 print(result)
