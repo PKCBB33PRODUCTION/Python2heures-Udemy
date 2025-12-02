@@ -1,0 +1,4 @@
+ERROR: Unable to connect to server
+ERROR: Disk write failure
+ERROR: Unable to connect to server
+ERROR: Disk write failure

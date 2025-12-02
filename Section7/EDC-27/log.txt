@@ -1,0 +1,5 @@
+INFO: All systems operational
+ERROR: Unable to connect to server
+WARNING: Low disk space
+ERROR: Disk write failure
+INFO: Backup completed successfully

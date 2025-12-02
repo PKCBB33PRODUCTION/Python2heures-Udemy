@@ -1,0 +1,4 @@
+Bienvenue dans le manuel utilisateur.
+Ce programme est conçu pour simplifier votre vie.
+Utilisez Python pour développer des solutions rapides.
+Bonne chance !

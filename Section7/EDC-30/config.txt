@@ -1,0 +1,4 @@
+serveur=localhost
+port=8080
+repertoire=/home/user/data
+mode=production

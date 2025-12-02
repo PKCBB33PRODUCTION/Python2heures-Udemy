@@ -1,0 +1,3 @@
+Python est un langage de programmation puissant. 
+Python est également facile à apprendre.
+Les développeurs aiment Python pour sa simplicité.
