@@ -15,3 +15,7 @@ if nb == 0:
     print('Number is "0".')
 else  :
     print('Number is NOT "0".')
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

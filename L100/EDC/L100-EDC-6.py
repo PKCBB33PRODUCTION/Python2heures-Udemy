@@ -5,3 +5,7 @@ if input_password == mot_de_passe:
     print("Accès autorisé.")
 else:
     print("Accès refusé.")
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

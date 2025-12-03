@@ -7,3 +7,7 @@ if admin:
 
 # OC = Out Condition
 print("(OC) Hello Wolrd!")
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

@@ -7,3 +7,7 @@ elif 11 >= note >= 8 :
     print("Passable")
 else :
     print("Insuffisant")
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#
