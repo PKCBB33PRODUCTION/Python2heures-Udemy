@@ -8,7 +8,7 @@ def compter_occurences(patharticle):
         nbrpython = 0
         for i in range(len(articles)):
             if mot in articles[i]:
-                # print("Erreur trouvée :", logs[i]) # Mode Verbose.
+                # print("Python trouvé :", articles[i]) # Mode verbose.
                 nbrpython = nbrpython + 1
     return nbrpython
 
