@@ -23,3 +23,7 @@ price = 100
 quantity = 5
 tax = 0.5
 print("Prix TTC = ", PrixTTC(price, quantity, tax))
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

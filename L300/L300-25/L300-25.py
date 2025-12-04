@@ -1,6 +1,5 @@
 # Auteur : Noah M.
 # 25. Le CSV notre premier format de données structurées
-
 # Lecture du fichier contact.csv
 with open("L300/L300-25/contact.csv", "r") as file:
     content = file.read()
@@ -44,3 +43,7 @@ with open("L300/L300-25/contact.csv", "r") as file:
     reader = csv.DictReader(file)
     for line in reader:
         print(line["Name"])
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#
