@@ -3,7 +3,7 @@
 
 with open("L300/EDC/L300-EDC-24/histoire.txt", "r" ) as file:
     contentline = file.read()
-#print(contentline)
+#print(contentline) # Mode Verbose.
 
 def compter_mots(texte):
     """Compte le nombre de mots dans une chaîne de caractères."""
@@ -11,3 +11,7 @@ def compter_mots(texte):
     return len(mots)
 
 print(compter_mots(contentline))
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

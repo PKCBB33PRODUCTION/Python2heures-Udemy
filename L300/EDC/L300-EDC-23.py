@@ -23,3 +23,7 @@ def analyser_phrase(phrase):
 
 resultat = analyser_phrase("Python est puissant et simple à apprendre")
 print(resultat)
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#
