@@ -12,4 +12,9 @@ def journal_erreurs(pathlog, patherror):
             else:
                 pass
                 # print("Pas d'erreur :", logs[i]) # Mode Verbose.
+# Exectution fonction.
 journal_erreurs("Section7/EDC-27/log.txt", "Section7/EDC-27/erreurs.txt")
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

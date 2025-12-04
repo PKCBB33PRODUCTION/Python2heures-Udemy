@@ -11,4 +11,9 @@ def trouver_ligne(patharticle, mot):
                 wordfind =  articles[i]
     return wordfind
 
+# Execute et affiche le mot python.
 print(trouver_ligne("Section7/EDC-32/manuel.txt","Python"))
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

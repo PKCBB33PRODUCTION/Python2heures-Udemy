@@ -2,7 +2,7 @@
 # Compter les Occurrences d’un Mot dans un Fichier Texte
 mot = "Python"
 def compter_occurences(patharticle):
-    """Cette fonction lit un fichier de log et extrait les lignes contenant des erreurs."""
+    """Cette fonction lit le fichier article.txt, compte le nombre d'occurence du mot Python, retourne la valeur."""
     with open (patharticle, "r", encoding="utf-8") as article:
         articles = article.readlines()
         nbrpython = 0
@@ -12,4 +12,9 @@ def compter_occurences(patharticle):
                 nbrpython = nbrpython + 1
     return nbrpython
 
+# Affiche le nombre d'occurence.
 print("Il y a",compter_occurences("Section7/EDC-31/article.txt"),"python dans l'article.")
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#
