@@ -30,3 +30,7 @@ print(f"Longueur dico : {len(dico)}")
 #Ajout valeur a dico.
 dico["bob"] = 25
 print(f"dico = {dico}")
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#
