@@ -1,5 +1,5 @@
 #Autor : Noah M.
-
+# 6. Chiffres et calculs: faire des opérations avec Python
 # Définition des variables.
 nb1 = 1
 nb2 = -2
