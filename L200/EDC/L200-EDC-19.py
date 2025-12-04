@@ -32,3 +32,7 @@ print(frequence)
 Fonctionnement Mode Verbose :
 Enlever tout les commentaire pour avoir un script plus parlant.
 """
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

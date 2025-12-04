@@ -10,3 +10,7 @@ result = []
 for nom, age in ages.items():
     result.append(f"{nom} a {age} ans.")
 print("\n".join(result))
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

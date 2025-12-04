@@ -28,3 +28,7 @@ else:
     # Bannanes => Ko.
     result = "Produit non trouvé."
 print(result)
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#

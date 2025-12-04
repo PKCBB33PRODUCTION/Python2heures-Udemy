@@ -1,6 +1,6 @@
-# Auteur : Noah MAILLET
+# Auteur : Noah M.
 # Générer une Liste de Nombres avec range
-# Variable de liste.
+# Création liste.
 nblist = []
 
 # Boucle qui génère une liste de 2 à 20.
@@ -17,3 +17,7 @@ Donc range va générer une liste de 2 à 20 avec que des nombres pairs.
 
 # Affichage du resultat
 print(nblist)
+
+#=========================#
+#= (c) PKCBB33PRODUCTION =#
+#=========================#
